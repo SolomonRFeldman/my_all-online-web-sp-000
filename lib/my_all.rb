@@ -5,6 +5,6 @@ def my_all?(collection)
   matching_values = []
   while array_index < collection.length
     
-    
+    array_index += 1
   end
 end
